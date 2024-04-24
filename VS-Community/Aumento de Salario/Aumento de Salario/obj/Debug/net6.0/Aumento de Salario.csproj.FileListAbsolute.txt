@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\bin\Debug\net6.0\Aumento de Salario.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\bin\Debug\net6.0\Aumento de Salario.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\bin\Debug\net6.0\Aumento de Salario.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\bin\Debug\net6.0\Aumento de Salario.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\bin\Debug\net6.0\Aumento de Salario.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\obj\Debug\net6.0\Aumento de Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\obj\Debug\net6.0\Aumento de Salario.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\obj\Debug\net6.0\Aumento de Salario.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\obj\Debug\net6.0\Aumento de Salario.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\obj\Debug\net6.0\Aumento de Salario.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\obj\Debug\net6.0\refint\Aumento de Salario.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\obj\Debug\net6.0\Aumento de Salario.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\obj\Debug\net6.0\Aumento de Salario.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\Aumento de Salario\Aumento de Salario\obj\Debug\net6.0\ref\Aumento de Salario.dll

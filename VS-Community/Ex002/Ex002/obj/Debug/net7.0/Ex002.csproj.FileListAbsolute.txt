@@ -1,0 +1,14 @@
+C:\Users\Rafael\source\repos\Ex002\Ex002\bin\Debug\net7.0\Ex002.exe
+C:\Users\Rafael\source\repos\Ex002\Ex002\bin\Debug\net7.0\Ex002.deps.json
+C:\Users\Rafael\source\repos\Ex002\Ex002\bin\Debug\net7.0\Ex002.runtimeconfig.json
+C:\Users\Rafael\source\repos\Ex002\Ex002\bin\Debug\net7.0\Ex002.dll
+C:\Users\Rafael\source\repos\Ex002\Ex002\bin\Debug\net7.0\Ex002.pdb
+C:\Users\Rafael\source\repos\Ex002\Ex002\obj\Debug\net7.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\Ex002\Ex002\obj\Debug\net7.0\Ex002.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\Ex002\Ex002\obj\Debug\net7.0\Ex002.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\Ex002\Ex002\obj\Debug\net7.0\Ex002.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Ex002\Ex002\obj\Debug\net7.0\Ex002.dll
+C:\Users\Rafael\source\repos\Ex002\Ex002\obj\Debug\net7.0\refint\Ex002.dll
+C:\Users\Rafael\source\repos\Ex002\Ex002\obj\Debug\net7.0\Ex002.pdb
+C:\Users\Rafael\source\repos\Ex002\Ex002\obj\Debug\net7.0\Ex002.genruntimeconfig.cache
+C:\Users\Rafael\source\repos\Ex002\Ex002\obj\Debug\net7.0\ref\Ex002.dll
